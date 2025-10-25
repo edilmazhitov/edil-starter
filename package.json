@@ -1,7 +1,7 @@
 {
-  "name": "@edilmazhitov/create-edil-starter",
+  "name": "create-edil-starter",
   "private": false,
-  "version": "1.0.0",
+  "version": "1.1.0",
   "type": "module",
   "author": "Edil Mazhitov",
   "scripts": {
