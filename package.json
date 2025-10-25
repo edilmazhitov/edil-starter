@@ -1,5 +1,5 @@
   {
-    "name": "create-edil-starter",
+    "name": "<project-name>",
     "private": false,
     "version": "1.1.1",
     "type": "module",
@@ -11,9 +11,6 @@
       "preview": "vite preview",
       "p-check": "npx prettier . --check",
       "p-fix": "npx prettier . --write"
-    },
-    "bin": {
-      "create-edil-starter": "./index.js"
     },
     "dependencies": {
       "react": "^19.1.1",
